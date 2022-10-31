@@ -88,7 +88,7 @@ else
 		printf("%d",c);
 		break;
 	case 4:
-		 c= a/b;
+		 c= c/d;
 		printf("%d",c);
 		break;
 		
